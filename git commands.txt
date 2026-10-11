@@ -1,0 +1,12 @@
+git init: Initialize the local repo 
+
+git add (file name) or (file name)(file name) or 
+to add all the files use 
+git add . 
+
+git commit -m "msg": Saves the file
+
+git remote add "GitHub repo url"
+git remote -v: Shows connected repositories 
+
+git push . : To push all the files to GitHub  
