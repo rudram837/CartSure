@@ -10,3 +10,15 @@ git remote add "GitHub repo url"
 git remote -v: Shows connected repositories 
 
 git push . : To push all the files to GitHub  
+
+
+git clone "link": clone the repo
+
+git status: keeps the track of local and remote files 
+
+git branch : A branch in git is a seperat linr of development that allows you to work on new features, bug fixes, or experiment without affecting the
+	     main project.
+
+
+git checkout -b "new_branch_name" : Create a new branch name 
+
