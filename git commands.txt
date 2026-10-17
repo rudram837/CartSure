@@ -22,3 +22,4 @@ git branch : A branch in git is a seperat linr of development that allows you to
 
 git checkout -b "new_branch_name" : Create a new branch name 
 
+git diff : checks the content difference between branches
